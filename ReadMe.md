@@ -1,11 +1,11 @@
 # 💫 About Me:
-## Hi there! 👋 I'm Ali Hassan Mughal, an enthusiastic Software Engineer based in Karachi, Pakistan. I thrive on solving complex problems using data-driven approaches and learning new technologies.<br><be> 
+## Hi there! 👋 I'm Ali Hassan Mughal, an enthusiastic Software Engineer based in Karachi, Pakistan. I thrive on solving complex problems using data-driven approaches and learning new technologies.<br><br>
 
-### Education <br><br>- **Bachelor's Degree:** I have completed my degree in Computer Science from the National University of Computer and Emerging Sciences (NUCES), FAST Karachi. <be>- **Skills:** My proficiency includes JavaScript (both front-end with React.js and back-end with Node.js and Express.js), as well as experience with RESTful APIs and database management.<br><be> 
+### Education <br><br>- **Bachelor's Degree:** I have completed my degree in Computer Science from the National University of Computer and Emerging Sciences (NUCES), FAST Karachi. <br>-**Skills:** My proficiency includes JavaScript (both front-end with React.js and back-end with Node.js and Express.js), as well as experience with RESTful APIs and database management.<br><br>
 
-### Passion for AI/ML based Software <br><br>- I'm deeply passionate about artificial intelligence and machine learning. I stay up-to-date with the latest research, attend conferences, and participate in online courses to enhance my knowledge. <br>- My goal is to apply AI techniques to real-world problems, whether it's enhancing recommendation systems, automating processes, or improving user experiences. <br><be> 
+### Passion for New Technologies <br><br>- I'm deeply passionate about creating real world applications using artificial intelligence and machine learning. I stay up-to-date with the latest research, attend conferences, and participate in online courses to enhance my knowledge. <br>- My goal is to apply AI techniques to real-world problems, whether it's enhancing recommendation systems, automating processes, or improving user experiences. <br><br> 
 
-### Experience <br><br>- Over the past year, I've actively contributed to full-stack development projects, collaborating with cross-functional teams to build scalable and efficient applications. <br>- I've successfully implemented machine learning models and natural language processing algorithms during my coursework and personal projects. <br><be> 
+### Experience <br><br>- Over the past year, I've actively contributed to full-stack development projects, collaborating with cross-functional teams to build scalable and efficient applications. <br>- I've successfully implemented machine learning models and natural language processing algorithms during my coursework and personal projects. <br><br> 
 
 ### Interests <br><br> When I'm not coding, you'll find me exploring new tech trends, reading research papers, or contributing to open-source projects. Let's connect on LinkedIn or explore my repositories here on GitHub! 😊
 
