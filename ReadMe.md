@@ -1,10 +1,9 @@
 # 💫 About Me:
 ## Hi there! 👋 I'm Ali Hassan Mughal, an enthusiastic Software Engineer based in Karachi, Pakistan. I thrive on solving complex problems using data-driven approaches and learning new technologies.<br><br>
 
-### Education <br><br>- **Bachelor's Degree:** I have completed my degree in Computer Science from the National University of Computer and Emerging Sciences (NUCES), FAST Karachi. <br>- 
-**Skills:**My proficiency includes JavaScript (both front-end with React.js and back-end with Node.js and Express.js), as well as experience with RESTful APIs and database management.<br><br>
+### Education <br><br>- **Bachelor's Degree:** I have completed my degree in Computer Science from the National University of Computer and Emerging Sciences (NUCES), FAST Karachi. <br<br>- **Skills:** My proficiency includes JavaScript (both front-end with React.js and back-end with Node.js and Express.js), as well as experience with RESTful APIs and database management.<br><br>
 
-### Passion for New Technologies <br><br>- I'm deeply passionate about creating real world applications using artificial intelligence and machine learning. I stay up-to-date with the latest research, attend conferences, and participate in online courses to enhance my knowledge. <br>- My goal is to apply AI techniques to real-world problems, whether it's enhancing recommendation systems, automating processes, or improving user experiences. <br><br> 
+### Passion for New Technologies <br><br>- I'm deeply passionate about creating real world applications using artificial intelligence and machine learning. I stay up-to-date with the latest research, attend conferences, and participate in online courses to enhance my knowledge. <br><br>- My goal is to apply AI techniques to real-world problems, whether it's enhancing recommendation systems, automating processes, or improving user experiences. <br><br> 
 
 ### Experience <br><br>- Over the past year, I've actively contributed to full-stack development projects, collaborating with cross-functional teams to build scalable and efficient applications. <br>- I've successfully implemented machine learning models and natural language processing algorithms during my coursework and personal projects. <br><br> 
 
