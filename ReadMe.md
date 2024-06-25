@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me Hi there! 👋 I'm Ali Hassan Mughal, an enthusiastic Software Engineer based in Karachi, Pakistan. I thrive on solving complex problems using data-driven approaches and learning new technologies.<br><be> 
+## Hi there! 👋 I'm Ali Hassan Mughal, an enthusiastic Software Engineer based in Karachi, Pakistan. I thrive on solving complex problems using data-driven approaches and learning new technologies.<br><be> 
 
 ### Education <br><br>- **Bachelor's Degree:** I'm currently in the final semester of my Computer Science degree at the National University of Computer and Emerging Sciences (NUCES), FAST Karachi.<be>- **Skills:** My proficiency includes JavaScript (both front-end with React.js and back-end with Node.js and Express.js), as well as experience with RESTful APIs and database management.<br><be> 
 
