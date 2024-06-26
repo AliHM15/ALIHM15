@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hi there! 👋 I'm Ali Hassan Mughal, an enthusiastic Software Engineer based in Karachi, Pakistan. I thrive on solving complex problems using data-driven approaches and learning new technologies.<br><br>
 
 ### Education <br><br>
